@@ -1,0 +1,5 @@
+
+requests
+pytest
+sentence-transformers
+pytest-html

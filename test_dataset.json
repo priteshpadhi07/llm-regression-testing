@@ -1,0 +1,28 @@
+
+[
+    {
+        "test_id": "TC_001",
+        "prompt": "What is software regression testing?",
+        "expected_response": "Regression testing verifies that software changes have not introduced new defects or broken existing functionality."
+    },
+    {
+        "test_id": "TC_002",
+        "prompt": "What is smoke testing?",
+        "expected_response": "Smoke testing is a preliminary check that verifies the critical functionalities of a software build are working."
+    },
+    {
+        "test_id": "TC_003",
+        "prompt": "What is API testing?",
+        "expected_response": "API testing verifies the functionality, reliability, and correctness of application programming interfaces."
+    },
+    {
+        "test_id": "TC_004",
+        "prompt": "What is a test case?",
+        "expected_response": "A test case defines test inputs, execution steps, and expected results to verify a specific software requirement."
+    },
+    {
+        "test_id": "TC_005",
+        "prompt": "What is negative testing?",
+        "expected_response": "Negative testing checks how a system handles invalid inputs, unexpected conditions, and error scenarios."
+    }
+]
